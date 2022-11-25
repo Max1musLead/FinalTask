@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\Final task\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\Users\Максим\Desktop\Final task\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\Users\Максим\Desktop\Final task\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\Users\Максим\Desktop\Final task\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\Users\Максим\Desktop\Final task\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Final task\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
